@@ -1,4 +1,4 @@
-# reddit-meme-nextapp
+# reddit-meme-nextapp (link-https://myredditgallery.netlify.app/)
 Welcome to the Reddit Meme Gallery – a delightful platform to explore and enjoy a curated collection of hilarious memes sourced from Reddit. This web application provides a seamless and engaging user experience, allowing users to scroll through an ever-expanding library of memes in a visually appealing grid format.
 
 # Key Features:
@@ -13,7 +13,7 @@ Header with GitHub Link: Access the project's GitHub repository directly from th
 
 # How to Use:
 
-@ Scroll: Scroll down to load more memes seamlessly.
-@ Click: Click on any meme to view it in full size.
-@ Dark Mode Toggle: Switch between light and dark modes for a personalized theme.
-@ GitHub Link: Visit the GitHub repository to explore and contribute.
+Scroll: Scroll down to load more memes seamlessly.
+Click: Click on any meme to view it in full size.
+Dark Mode Toggle: Switch between light and dark modes for a personalized theme.
+GitHub Link: Visit the GitHub repository to explore and contribute.
